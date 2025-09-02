@@ -1,5 +1,5 @@
 # ECOSTRESS_Geolocation_Correction_tool
-This code is designed to find and apply pixel shifts to ECOSTRESS LST images to match Sentinel-2 accuracy.
+This code is designed to find and apply pixel shifts to ECOSTRESS LST images to match Shuttle Radar Topography Mission (SRTM) accuracy.
 
 Please navigate to the [ECOSTRESS Tutorials Repository](https://github.com/ECOSTRESS-Tutorials) to familiarize yourself with ECOSTRESS products .
 
